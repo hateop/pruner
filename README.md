@@ -18,4 +18,4 @@ Hate Pruner is a powerful Discord pruning tool that supports **both bot and self
 ```bash
 git clone https://github.com/hateop/pruner
 cd hate-pruner
-npm install
+npm install discord.js@14.15.3 discord.js-selfbot-v13 readline-sync chalk
